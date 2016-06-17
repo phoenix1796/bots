@@ -8,7 +8,7 @@ Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
-- [Tools for building bots](#tools-for-building-bots)
+- [AI or NLP Engines](#ai-or-nlp-engines)
 - [Libraries](#libaries)
 - [Bot stores](#bot-stores)
 - [Selected Tutorials](#selected-tutorials)
@@ -22,14 +22,8 @@ Table of Contents
 * [Telegram](https://core.telegram.org/bots/api)
 * [Kik](https://dev.kik.com/#/home)
 * [Zulip](https://zulip.com/integrations/)
-* [HipChat](https://developer.atlassian.com/hipchat/getting-started)
-* [Skype](https://developer.microsoft.com/en-us/skype/bots)
-* [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
-* [Microsoft Bot Framework](https://dev.botframework.com/)
-* [WeChat](https://admin.wechat.com/)
-* [VKontakt](https://new.vk.com/dev/bizmessages)
 
-## Tools for building bots
+## AI or NLP Engines
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
@@ -40,21 +34,14 @@ Table of Contents
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet. 
 * [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
-* [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version. 
 
-## Libraries
-
-###General
-* [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes
-
+## Libaries
 
 ### Facebook Messenger
 * [Go library](https://github.com/paked/messenger)
  
 ### Slack
-* [node.js (Official)](https://github.com/slackhq/node-slack-sdk)
+* [node.js (Official)](https://github.com/slackhq/node-slack-client)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
@@ -63,10 +50,6 @@ Table of Contents
 
 ## Bot stores
 * [botlist](https://botlist.co/) - An App Store For Bots
-* [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store
-* [Telegram Store](https://storebot.me/) - The official Telegram bot store
-* [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list
-* [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory
 
 ## Selected Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
@@ -78,9 +61,6 @@ Table of Contents
  
 ## Communities
 * [Bots - Facebook group](https://www.facebook.com/groups/chatbot/)
-* [UX for Bots](https://www.facebook.com/groups/uxforbots/)
-* [Chat Bot Magazine](https://chatbotsmagazine.com/)
-* [HH Bots - Facebook group](https://www.facebook.com/groups/hhbots/)
 
 ## License
 
